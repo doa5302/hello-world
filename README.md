@@ -1,3 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
-I am Derick aND I'm creating this for extra credit in my Java class.
+This repository is computer science 221
+I am Derick and I'm creating this for extra credit in my Java class.

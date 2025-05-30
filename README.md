@@ -2,7 +2,7 @@
 
 A simple Wordle-style game written in Java for CS 221 extra credit.
 
-## 📁 Project Structure
+📁 Project Structure
 
 - `Main.java` – Entry point of the game
 - `Wordle.java` – Core game logic
@@ -11,6 +11,6 @@ A simple Wordle-style game written in Java for CS 221 extra credit.
 - `5-words.txt` – List of valid 5-letter words used for guessing
 
 
-## ▶️ How to Run This Project
+▶ How to Run This Project
 javac *.java
 java Main

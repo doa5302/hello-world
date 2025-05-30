@@ -12,5 +12,7 @@ A simple Wordle-style game written in Java for CS 221 extra credit.
 
 
 ▶ How to Run This Project
+
 javac *.java
+
 java Main
